@@ -7,7 +7,6 @@
 
   "dependencies": {
     "BLL": "1.0.0-*",
-    "DAL": "1.0.0-*",
     "EntityFramework.Commands": "7.0.0-rc1-final",
     "Microsoft.AspNet.Authentication.Cookies": "1.0.0-rc1-final",
     "Microsoft.AspNet.Diagnostics.Entity": "7.0.0-rc1-final",
